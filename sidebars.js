@@ -39,6 +39,46 @@ export default {
     'hello',
     {
       type: 'category',
+      label: '1. Власні ресурси',
+      items: ['module01/intro','module01/base01'],
+    },
+        {
+      type: 'category',
+      label: '2. Ринок',
+      items: ['module02/intro'],
+    },
+        {
+      type: 'category',
+      label: '3. Бізнес-модель',
+      items: ['module03/intro'],
+    },
+        {
+      type: 'category',
+      label: '4. Продукт',
+      items: ['module04/intro'],
+    },
+        {
+      type: 'category',
+      label: '5. Облік та фінанси',
+      items: ['module05/intro'],
+    },
+        {
+      type: 'category',
+      label: '6. Оподаткування та документація',
+      items: ['module06/intro'],
+    },
+        {
+      type: 'category',
+      label: '7. Юридичні питання та команда',
+      items: ['module07/intro'],
+    },
+            {
+      type: 'category',
+      label: '8. Презентація продукту та компанії',
+      items: ['module08/intro'],
+    },
+    {
+      type: 'category',
       label: 'Tutorial',
       items: ['tutorial-basics/create-a-document'],
     },

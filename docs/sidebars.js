@@ -4,6 +4,11 @@ export default {
     'hello',
     {
       type: 'category',
+      label: 'Tutorial1',
+      items: ['tutorial-basics/create-a-document'],
+    },
+    {
+      type: 'category',
       label: 'Tutorial',
       items: ['tutorial-basics/create-a-document'],
     },
