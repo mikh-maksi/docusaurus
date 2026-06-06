@@ -55,27 +55,27 @@ export default {
         {
       type: 'category',
       label: '4. Продукт',
-      items: ['module04/intro'],
+      items: ['module04/intro','module04/base01','module04/base02'],
     },
         {
       type: 'category',
       label: '5. Облік та фінанси',
-      items: ['module05/intro'],
+      items: ['module05/intro','module05/base01','module05/base02','module05/base03','module05/base04','module05/base05','module05/base06'],
     },
         {
       type: 'category',
       label: '6. Оподаткування та документація',
-      items: ['module06/intro'],
+      items: ['module06/intro','module06/base01','module06/base02','module06/base03','module06/base04','module06/base05','module06/base06','module06/base07','module06/base08'],
     },
         {
       type: 'category',
       label: '7. Юридичні питання та команда',
-      items: ['module07/intro'],
+      items: ['module07/intro','module07/base01','module07/base02','module07/base03','module07/base04','module07/base05','module07/base06','module07/base07'],
     },
             {
       type: 'category',
       label: '8. Презентація продукту та компанії',
-      items: ['module08/intro'],
+      items: ['module08/intro','module08/base01'],
     },
     {
       type: 'category',
