@@ -40,17 +40,17 @@ export default {
     {
       type: 'category',
       label: '1. Власні ресурси',
-      items: ['module01/intro','module01/base01'],
+      items: ['module01/intro','module01/base01','module01/base02','module01/base03'],
     },
         {
       type: 'category',
       label: '2. Ринок',
-      items: ['module02/intro'],
+      items: ['module02/intro','module02/base01','module02/base02','module02/base03','module02/base04'],
     },
         {
       type: 'category',
       label: '3. Бізнес-модель',
-      items: ['module03/intro'],
+      items: ['module03/intro','module03/base01','module03/base02','module03/base03','module03/base04'],
     },
         {
       type: 'category',
