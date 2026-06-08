@@ -40,42 +40,42 @@ export default {
     {
       type: 'category',
       label: '1. Власні ресурси',
-      items: ['module01/intro','module01/base01','module01/base02','module01/base03'],
+      items: ['module01/intro','module01/base01','module01/base02','module01/base03','module01/artefacts'],
     },
         {
       type: 'category',
       label: '2. Ринок',
-      items: ['module02/intro','module02/base01','module02/base02','module02/base03','module02/base04'],
+      items: ['module02/intro','module02/base01','module02/base02','module02/base03','module02/base04','module02/artefacts'],
     },
         {
       type: 'category',
       label: '3. Бізнес-модель',
-      items: ['module03/intro','module03/base01','module03/base02','module03/base03','module03/base04'],
+      items: ['module03/intro','module03/base01','module03/base02','module03/base03','module03/base04','module03/artefacts'],
     },
         {
       type: 'category',
       label: '4. Продукт',
-      items: ['module04/intro','module04/base01','module04/base02'],
+      items: ['module04/intro','module04/base01','module04/base02','module04/artefacts'],
     },
         {
       type: 'category',
       label: '5. Облік та фінанси',
-      items: ['module05/intro','module05/base01','module05/base02','module05/base03','module05/base04','module05/base05','module05/base06'],
+      items: ['module05/intro','module05/base01','module05/base02','module05/base03','module05/base04','module05/base05','module05/base06','module05/artefacts'],
     },
         {
       type: 'category',
       label: '6. Оподаткування та документація',
-      items: ['module06/intro','module06/base01','module06/base02','module06/base03','module06/base04','module06/base05','module06/base06','module06/base07','module06/base08'],
+      items: ['module06/intro','module06/base01','module06/base02','module06/base03','module06/base04','module06/base05','module06/base06','module06/base07','module06/base08','module06/artefacts'],
     },
         {
       type: 'category',
       label: '7. Юридичні питання та команда',
-      items: ['module07/intro','module07/base01','module07/base02','module07/base03','module07/base04','module07/base05','module07/base06','module07/base07'],
+      items: ['module07/intro','module07/base01','module07/base02','module07/base03','module07/base04','module07/base05','module07/base06','module07/base07','module07/artefacts'],
     },
             {
       type: 'category',
       label: '8. Презентація продукту та компанії',
-      items: ['module08/intro','module08/base01'],
+      items: ['module08/intro','module08/base01','module08/artefacts'],
     },
     {
       type: 'category',
