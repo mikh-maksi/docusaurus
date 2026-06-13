@@ -77,10 +77,5 @@ export default {
       label: '8. Презентація продукту та компанії',
       items: ['module08/intro','module08/base01','module08/artefacts'],
     },
-    {
-      type: 'category',
-      label: 'Tutorial',
-      items: ['tutorial-basics/create-a-document'],
-    },
   ],
 };
