@@ -40,7 +40,7 @@ export default {
     {
       type: 'category',
       label: '1. Власні ресурси',
-      items: ['module01/intro','module01/base01','module01/base02','module01/base03','module01/base04','module01/base05','module01/artefacts'],
+      items: ['module01/intro','module01/base02','module01/base03','module01/base04','module01/base05','module01/base06','module01/base01','module01/artefacts'],
     },
         {
       type: 'category',
