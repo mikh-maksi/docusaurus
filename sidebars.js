@@ -55,12 +55,12 @@ export default {
         {
       type: 'category',
       label: '4. Ринок і клієнт',
-      items: ['module04/intro','module04/base01','module04/base02','module04/artefacts'],
+      items: ['module04/intro','module04/base01','module04/base02','module04/base03','module04/artefacts'],
     },
         {
       type: 'category',
       label: '5. Соціальні контакти і канали продажу',
-      items: ['module05/intro','module05/base01','module05/base02','module05/base03','module05/base04','module05/base05','module05/base06','module05/artefacts'],
+      items: ['module05/intro','module05/base01','module05/base07','module05/base02','module05/base03','module05/base04','module05/base05','module05/base06','module05/artefacts'],
     },
         {
       type: 'category',
