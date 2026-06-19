@@ -60,22 +60,22 @@ export default {
         {
       type: 'category',
       label: '5. Соціальні контакти і канали продажу',
-      items: ['module05/intro','module05/base01','module05/base07','module05/base02','module05/base03','module05/base04','module05/base05','module05/base06','module05/artefacts'],
+      items: ['module05/intro','module05/base01','module05/base07','module05/base08','module05/base02','module05/base03','module05/base04','module05/base05','module05/base06','module05/artefacts'],
     },
         {
       type: 'category',
       label: '6. Business Model Canvas і фінанси',
-      items: ['module06/intro','module06/base01','module06/base02','module06/base03','module06/base04','module06/base05','module06/base06','module06/base07','module06/base08','module06/artefacts'],
+      items: ['module06/intro','module06/base09','module06/base01','module06/base02','module06/base03','module06/base04','module06/base05','module06/base06','module06/base07','module06/base08','module06/artefacts'],
     },
         {
       type: 'category',
       label: '7. Тестування продукту і MVP',
-      items: ['module07/intro','module07/base01','module07/base02','module07/base03','module07/base04','module07/base05','module07/base06','module07/base07','module07/artefacts'],
+      items: ['module07/intro','module07/base08','module07/base01','module07/base02','module07/base03','module07/base04','module07/base05','module07/base06','module07/base07','module07/artefacts'],
     },
             {
       type: 'category',
       label: '8. Пітч і презентація бізнес-плану',
-      items: ['module08/intro','module08/base01','module08/artefacts'],
+      items: ['module08/intro','module08/base02','module08/base01','module08/artefacts'],
     },
   ],
 };
