@@ -40,37 +40,37 @@ export default {
     {
       type: 'category',
       label: '1. Підприємництво як економічне рішення',
-      items: ['module01/intro','module01/base02','module01/base03','module01/base04','module01/base05','module01/base06','module01/base01','module01/base07','module01/base08','module01/artefacts'],
+      items: ['module01/intro', 'module01/base03','module01/base05','module01/base06','module01/base04','module01/base01','module01/base07','module01/base08','module01/artefacts'],
     },
         {
       type: 'category',
       label: '2. Ринок клієнт попит',
-      items: ['module02/intro','module02/base01','module02/base05','module02/base02','module02/base03','module02/base04','module02/base06','module02/base07','module02/base08','module02/base08','module02/artefacts'],
+      items: ['module02/intro','module02/base01','module02/base03','module02/base07','module02/base05','module02/base06','module02/base02','module02/base04','module02/base08','module02/base09','module02/base10','module02/artefacts'],
     },
         {
       type: 'category',
       label: '3. Базовий цифровий зошит бізнесу. Структура бізнес-ідеї',
-      items: ['module03/intro','module03/base01','module03/base02','module03/base03','module03/base04','module03/artefacts'],
+      items: ['module03/intro','module03/base01','module03/base02','module03/base03','module03/base05','module03/base06','module03/base04','module03/artefacts'],
     },
         {
       type: 'category',
       label: '4. Ринок і клієнт',
-      items: ['module04/intro','module04/base01','module04/base02','module04/base03','module04/artefacts'],
+      items: ['module04/intro','module04/base01','module04/base03','module04/base04','module04/base02','module04/artefacts'],
     },
         {
       type: 'category',
       label: '5. Соціальні контакти і канали продажу',
-      items: ['module05/intro','module05/base01','module05/base07','module05/base08','module05/base02','module05/base03','module05/base04','module05/base05','module05/base06','module05/artefacts'],
+      items: ['module05/intro','module05/base07','module05/base08','module05/base02','module05/base03','module05/stackholders_list','module05/artefacts'],
     },
         {
       type: 'category',
       label: '6. Business Model Canvas і фінанси',
-      items: ['module06/intro','module06/base09','module06/base01','module06/base02','module06/base03','module06/base04','module06/base05','module06/base06','module06/base07','module06/base08','module06/artefacts'],
+      items: ['module06/intro','module06/finance_accounting','module06/taxes','module06/business_modelling','module06/okr','module06/artefacts'],
     },
         {
       type: 'category',
       label: '7. Тестування продукту і MVP',
-      items: ['module07/intro','module07/base08','module07/base01','module07/base02','module07/base03','module07/base04','module07/base05','module07/base06','module07/base07','module07/artefacts'],
+      items: ['module07/intro','module07/business_stages','module07/base08','module07/base01','module07/base02','module07/base03','module07/base04','module07/base05','module07/base06','module07/base07','module07/artefacts'],
     },
             {
       type: 'category',
